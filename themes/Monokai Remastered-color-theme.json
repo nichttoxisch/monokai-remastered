@@ -1,0 +1,69 @@
+{
+  "name": "Monokai Remastered",
+  "$schema": "vscode://schemas/color-theme",
+  "type": "dark",
+  "colors": {
+    "editor.foreground": "#B9B9B9",
+    "editor.background": "#0C0C0C",
+    "sideBar.background": "#0C0C0C",
+    "editor.selectionBackground": "#2F2F2F",
+    "titleBar.activeBackground": "#0C0C0C",
+  },
+  "tokenColors": [
+    {
+      "scope": [
+        "keyword",
+        "storage.modifier",
+        "storage.type.struct"
+      ],
+      "settings": {
+        "foreground": "#F4005F"
+      }
+    },
+    {
+      "scope": [
+        "string",
+      ],
+      "settings": {
+        "foreground": "#E0D561"
+      }
+    },
+    {
+      "scope": [
+        "constant",
+        "entity.name.function.preprocessor",
+      ],
+      "settings": {
+        "foreground": "#9d65ff"
+      }
+    },
+    {
+      "scope": [
+        "entity.name.function",
+      ],
+      "settings": {
+        "foreground": "#98E024"
+      }
+    },
+    {
+      "scope": [
+        "storage.type",
+        "support.type",
+        "entity.name.type.alias",
+        "meta.qualified_type",
+        "entity.name.type.struct"
+      ],
+      "settings": {
+        "foreground": "#58D1EB",
+      }
+    },
+    {
+      "scope": [
+        "comment",
+      ],
+      "settings": {
+        "foreground": "#707070",
+      }
+    },
+  ]
+}

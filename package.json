@@ -1,0 +1,21 @@
+{
+  "name": "1monokai-remastered",
+  "displayName": "Monokai Remastered",
+  "description": "Dark Monkai Remastered Theme for C",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Monokai Remastered",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Monokai Remastered-color-theme.json"
+      }
+    ]
+  }
+}
