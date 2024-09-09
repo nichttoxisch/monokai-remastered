@@ -9,4 +9,4 @@ Currently only tested support for the c programming language.
 # Installation
 1. Clone the repository
 2. Open vscode
-3. EExecute the command `Developer: Install Extension from location...` and navigate to the repository
+3. Execute the command `Developer: Install Extension from location...` and navigate to the repository
