@@ -32,6 +32,7 @@
       "scope": [
         "constant",
         "entity.name.function.preprocessor",
+        "keyword.constant"
       ],
       "settings": {
         "foreground": "#9d65ff"
@@ -51,7 +52,8 @@
         "support.type",
         "entity.name.type.alias",
         "meta.qualified_type",
-        "entity.name.type.struct"
+        "entity.name.type.struct",
+        "keyword.type"
       ],
       "settings": {
         "foreground": "#58D1EB",
