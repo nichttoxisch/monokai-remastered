@@ -14,7 +14,8 @@
       "scope": [
         "keyword",
         "storage.modifier",
-        "storage.type.struct"
+        "storage.type.struct",
+        "storage.type.union"
       ],
       "settings": {
         "foreground": "#F4005F"
