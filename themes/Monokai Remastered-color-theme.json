@@ -15,7 +15,8 @@
         "keyword",
         "storage.modifier",
         "storage.type.struct",
-        "storage.type.union"
+        "storage.type.union",
+        "entity.name.tag.html"
       ],
       "settings": {
         "foreground": "#F4005F"
@@ -42,6 +43,7 @@
     {
       "scope": [
         "entity.name.function",
+        "entity.other.attribute-name.html"
       ],
       "settings": {
         "foreground": "#98E024"
