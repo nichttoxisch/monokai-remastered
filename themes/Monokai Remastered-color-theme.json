@@ -43,7 +43,8 @@
     {
       "scope": [
         "entity.name.function",
-        "entity.other.attribute-name.html"
+        "entity.other.attribute-name.html",
+        "meta.function-call.generic.python",
       ],
       "settings": {
         "foreground": "#98E024"
